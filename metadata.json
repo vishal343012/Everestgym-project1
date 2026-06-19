@@ -1,0 +1,6 @@
+{
+  "name": "Everestgym",
+  "description": "Premium fitness center in Rajarhat, Kolkata offering Strength Training, Cardio, Weight Loss, and Personal Training with a 4.8-star community rating.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
